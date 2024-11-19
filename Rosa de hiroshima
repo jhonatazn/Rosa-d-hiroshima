@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rosa de Hiroshima</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        h1 {
+            text-align: center;
+            color: #900;
+        }
+        .poem {
+            margin: 0 auto;
+            max-width: 600px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>Rosa de Hiroshima</h1>
+    <div class="poem">
+        <p>Pensem nas crianças, mudas telepáticas</p>
+        <p>Pensem nas meninas, cegas inexatas</p>
+        <p>Pensem nas mulheres, rotas alteradas</p>
+        <p>Pensem nas feridas, como rosas cálidas</p>
+        <p>Pensem nas rosas, nas rosas</p>
+        <p>Pensem nas bombas, nas bombas</p>
+        <p>Pensem nas crianças, mudas telepáticas</p>
+        <p>Pensem nas meninas, cegas inexatas</p>
+        <p>Pensem nas mulheres, rotas alteradas</p>
+        <p>Pensem nas feridas, como rosas cálidas</p>
+        <p>Mas, oh, não se esqueçam da rosa, da rosa</p>
+        <p>Da rosa de Hiroshima, a rosa hereditária</p>
+        <p>A rosa radioativa, estúpida e inválida</p>
+        <p>A rosa com cirrose, a anti-rosa atômica</p>
+        <p>Sem cor, sem perfume, sem rosa, sem nada</p>
+    </div>
+</body>
+</html>
